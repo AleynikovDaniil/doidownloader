@@ -1,0 +1,10 @@
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\bin\Debug\doidownloader.exe
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\bin\Debug\doidownloader.pdb
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\obj\Debug\doidownloader.csprojAssemblyReference.cache
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\obj\Debug\doidownloader.Form1.resources
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\obj\Debug\doidownloader.Properties.Resources.resources
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\obj\Debug\doidownloader.csproj.GenerateResource.cache
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\obj\Debug\doidownloader.csproj.CoreCompileInputs.cache
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\obj\Debug\doidownloader.exe
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\obj\Debug\doidownloader.pdb
+C:\Users\Придурок\source\repos\doidownloader\doidownloader\bin\Debug\doidownloader.exe.config
